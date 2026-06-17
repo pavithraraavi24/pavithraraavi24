@@ -12,11 +12,6 @@
 
 I'm a **student and builder** who learns best by creating real things. I'm passionate about designing clean, functional web experiences and turning ideas into working products — fast.
 
-- 🔭 Currently building **[ConferenceHub](https://github.com/pavithraraavi24/conferencehub)** — a real-time event management platform
-- 🌱 Learning **JavaScript, HTML/CSS, Python, and GitHub**
-- 💡 Interested in **UI/UX, product design, and web development**
-- 🎯 Goal: Build a portfolio of 10 shipped projects in 2026
-- 📍 Based in India
 
 ---
 
