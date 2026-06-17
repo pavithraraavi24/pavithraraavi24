@@ -36,38 +36,6 @@ I'm a **student and builder** who learns best by creating real things. I'm passi
 
 <div align="center">
 
-### ConferenceHub — Real-Time Event Management Platform
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-6366f1?style=for-the-badge)](https://pavithraraavi24.github.io/conferencehub)
-[![GitHub Repo](https://img.shields.io/badge/📁%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/pavithraraavi24/conferencehub)
-
-</div>
-
-A full-featured, single-file web platform for managing conferences and events. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no build tools.
-
-**What it does:**
-- 📅 Create and browse events with category filters and capacity tracking
-- 🎫 Multi-tier ticketing (General, VIP, Early Bird) with quantity selector
-- 📊 Real-time organizer dashboard with Chart.js revenue and registration charts
-- 👥 Attendee roster with live check-in status and search
-- 🔔 Toast notifications and live activity feed updating every 5 seconds
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pavithraraavi24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07090f&title_color=6366f1&icon_color=818cf8&text_color=e8eaf2" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraraavi24&layout=compact&theme=tokyonight&hide_border=true&bg_color=07090f&title_color=6366f1&text_color=e8eaf2" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pavithraraavi24&theme=tokyonight&hide_border=true&background=07090f&ring=6366f1&fire=818cf8&currStreakLabel=6366f1)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
